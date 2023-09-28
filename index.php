@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Membuat Login Multi User Level Dengan PHP dan MySQLi - www.malasngoding.com</title>

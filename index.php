@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Membuat Login Multi User Level Dengan PHP dan MySQLi - www.malasngoding.com</title>
@@ -38,4 +39,4 @@ if(isset($_GET['pesan'])){
 
 
 </body>
-</html>
+            </html>

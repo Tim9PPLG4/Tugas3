@@ -1,10 +1,9 @@
-
 <?php 
-$koneksi = mysqli_connect("localhost","root","","multi_user");
+$koneksi = mysqli_connect("localhost","root","","db_website");
 
-// Check connection
-if (mysqli_connect_error()){
-    echo "koneksi database gagal : " . mysqli_connect_error();
+// Check connection 
+if (mysqli_connect_errno()){
+ echo "Koneksi database gagal : " . mysqli_connect_error(); 
 }
 
  ?>

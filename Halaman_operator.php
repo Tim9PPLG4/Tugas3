@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
    <title>Halaman Operator</title>
